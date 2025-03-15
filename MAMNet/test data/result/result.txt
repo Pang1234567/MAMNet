@@ -1,0 +1,3 @@
+Valid loss: 1.6660
+average IoU: 0.7863
+average Dice: 0.8409
